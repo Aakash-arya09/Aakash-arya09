@@ -164,13 +164,12 @@ src="https://streak-stats.demolab.com/?user=Aakash-arya09&theme=tokyonight&hide_
 
 ---
 
+
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash-arya09&bg_color=0d1117&color=58a6ff&line=00e5ff&point=ffffff&area=true&hide_border=true"
-/>
+![Akash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aakash-arya09&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -193,9 +192,7 @@ width="900"
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=Aakash-arya09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aakash-arya09&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 
 </div>
 
