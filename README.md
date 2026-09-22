@@ -1,140 +1,117 @@
+<div align="center">
+
 # 👋 Hey, I'm Akash Arya
 
-### 💻 BSc Student | Python & C++ Learner | AI & Cybersecurity Enthusiast | Anime Fan
+### 💻 BSc Student • 🤖 AI Enthusiast • 🔐 Cybersecurity Learner • 🎌 Anime Fan
 
-I'm a **BSc student** interested in technology, programming, AI, cybersecurity, and building useful projects that solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Ideas+into+Projects;Learning+Python+%26+C%2B%2B;Exploring+AI+%26+Cybersecurity;Code+%7C+Create+%7C+Learn+%7C+Repeat" />
 
-I enjoy learning by **building things**, experimenting with new technologies, and turning ideas into working projects. I'm currently improving my programming fundamentals while exploring AI-powered applications and web development.
-
----
-
-## 🚀 About Me
-
-* 🎓 BSc student
-* 💻 Learning **Python, C++, Web Development & Data Structures**
-* 🤖 Interested in **Artificial Intelligence & AI Assistants**
-* 🔐 Exploring **Cybersecurity & Ethical Hacking**
-* 🌐 Interested in building **real-world web applications**
-* 🧠 Currently improving my problem-solving and programming skills
-* 📱 Interested in technology, machines and phones
-* 🎌 Anime enthusiast
-* 🔨 I learn best by **building projects and experimenting**
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧑‍💻 About Me
 
-### Programming
+I'm a **BSc student** who enjoys learning technology by actually building things.
 
-* 🐍 Python
-* ⚡ C++
-* 🌐 HTML / CSS / JavaScript
+I'm currently exploring **Python, C++, Data Structures, Web Development, Artificial Intelligence and Cybersecurity**. I like taking an idea, experimenting with it, breaking things, fixing them, and slowly turning it into something useful.
 
-### Currently Exploring
-
-* 🤖 Artificial Intelligence
-* 🧠 LLMs & AI APIs
-* 🔐 Cybersecurity
-* 🗄️ Databases
-* ☁️ Deployment & Cloud Technologies
-* 📊 Data Structures & Algorithms
-
-### Tools
-
-* 💻 VS Code
-* 🐙 Git & GitHub
-* 🐧 Linux / Kali Linux
-* 🐍 PyCharm
-* 📦 FastAPI
-* 🌐 REST APIs
+- 🎓 BSc Student
+- 🐍 Learning Python
+- ⚡ Learning C++
+- 🤖 Exploring Artificial Intelligence
+- 🔐 Exploring Cybersecurity & Ethical Hacking
+- 🌐 Building Web Applications
+- 🧠 Learning Data Structures & Algorithms
+- 📱 Interested in technology, machines & phones
+- 🎌 Anime enthusiast
 
 ---
 
-## 🔥 Projects
+## 🚀 What I'm Working On
 
-### 🤖 AI Assistant / JARVIS
+🤖 **AI Projects**  
+Building experiments with AI APIs and personal assistants.
 
-Exploring the development of an AI-powered personal assistant capable of interacting with users through natural language and APIs.
+🌐 **Web Applications**  
+Creating projects that solve practical problems.
 
-**Focus:** Python • AI • APIs • Automation
+🔐 **Cybersecurity**  
+Learning Linux, networking, security concepts and ethical hacking.
+
+📚 **Programming**  
+Strengthening my Python, C++, DSA and problem-solving skills.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+
+### 🤖 AI & Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,git,github,vscode" />
+
+### 🐧 Systems & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,kali,docker" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 JARVIS / AI Assistant
+> An experimental personal AI assistant inspired by futuristic virtual assistants.
+
+**Tech:** Python • AI APIs • Automation • Voice
+
+---
 
 ### 🏠 RentSafe
+> A web application concept designed around making the rental experience easier and safer.
 
-A web application concept focused on making the rental experience safer and more convenient.
-
-**Focus:** FastAPI • Web Development • Authentication • APIs
-
-### 🌐 Citizen AI
-
-Exploring the idea of an AI-powered platform that can help people access useful information and services through a single interface.
-
-**Focus:** AI • Web Applications • Automation
+**Tech:** FastAPI • Python • Web Development • APIs
 
 ---
 
-## 📚 Currently Learning
+### 🌐 Citizen AI
+> An AI-powered platform concept designed to bring useful information and services together in one place.
+
+**Tech:** AI • Web Development • APIs
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aakash-arya09&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-arya09&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🧠 My Learning Journey
 
 ```text
 Python
-   ↓
-Data Structures & Algorithms
-   ↓
+  ↓
+C++ & Data Structures
+  ↓
 Web Development
-   ↓
-APIs & Backend Development
-   ↓
+  ↓
+APIs & Backend
+  ↓
 Artificial Intelligence
-   ↓
+  ↓
 Cybersecurity
-```
-
-My goal isn't just to learn syntax — I want to understand **how things actually work** and use that knowledge to build useful software.
-
----
-
-## 🎯 My Goals
-
-* 🚀 Build and deploy useful applications
-* 🤖 Create practical AI-powered tools
-* 🔐 Develop strong cybersecurity fundamentals
-* 💻 Become a better programmer
-* 🧠 Improve problem-solving and DSA
-* 🌍 Contribute to open-source projects
-* 📈 Keep learning and experimenting with new technology
-
----
-
-## ⚡ Beyond Coding
-
-When I'm not coding, you'll probably find me:
-
-🎌 Watching anime
-📱 Exploring new technology
-💻 Experimenting with software
-🧠 Learning something new
-🔧 Trying to turn random ideas into projects
-
-> **Learn → Build → Break → Fix → Repeat.**
-
----
-
-## 📊 GitHub
-
-I'm continuously working on improving my skills and building projects.
-This profile is a record of that journey.
-
-### 🚧 Currently Building. Currently Learning. Always Improving.
-
----
-
-## 📫 Connect With Me
-
-If you're interested in **AI, cybersecurity, programming, web development, or technology**, feel free to connect and collaborate.
-
-⭐ If you find one of my projects useful, consider giving it a star!
-
----
-
-### 🧑‍💻 `Code • Create • Learn • Repeat`
-
-🎌 *Anime + Code + Curiosity = Me*
+  ↓
+Build Something Useful 🚀
