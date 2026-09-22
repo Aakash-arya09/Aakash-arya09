@@ -4,7 +4,15 @@
 
 ### 💻 BSc Student • 🤖 AI Enthusiast • 🔐 Cybersecurity Learner • 🎌 Anime Fan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Ideas+into+Projects;Learning+Python+%26+C%2B%2B;Exploring+AI+%26+Cybersecurity;Code+%7C+Create+%7C+Learn+%7C+Repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+into+Projects;Exploring+AI+%26+Cybersecurity;Python+%7C+C%2B%2B+%7C+Web+Development;Code+%7C+Create+%7C+Learn+%7C+Repeat" />
+
+<br>
+
+<a href="https://github.com/Aakash-arya09">
+<img src="https://img.shields.io/github/followers/Aakash-arya09?label=Followers&style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Aakash-arya09&style=for-the-badge&color=blueviolet" />
 
 </div>
 
@@ -12,35 +20,21 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **BSc student** who enjoys learning technology by actually building things.
+I'm a **BSc student** who enjoys learning technology by building real projects.
 
-I'm currently exploring **Python, C++, Data Structures, Web Development, Artificial Intelligence and Cybersecurity**. I like taking an idea, experimenting with it, breaking things, fixing them, and slowly turning it into something useful.
+I'm interested in **Artificial Intelligence, Cybersecurity, Web Development, Programming and Automation**.
+
+I like taking an idea, experimenting with it, breaking things, fixing them, and turning it into something useful.
 
 - 🎓 BSc Student
-- 🐍 Learning Python
-- ⚡ Learning C++
-- 🤖 Exploring Artificial Intelligence
-- 🔐 Exploring Cybersecurity & Ethical Hacking
-- 🌐 Building Web Applications
-- 🧠 Learning Data Structures & Algorithms
-- 📱 Interested in technology, machines & phones
-- 🎌 Anime enthusiast
-
----
-
-## 🚀 What I'm Working On
-
-🤖 **AI Projects**  
-Building experiments with AI APIs and personal assistants.
-
-🌐 **Web Applications**  
-Creating projects that solve practical problems.
-
-🔐 **Cybersecurity**  
-Learning Linux, networking, security concepts and ethical hacking.
-
-📚 **Programming**  
-Strengthening my Python, C++, DSA and problem-solving skills.
+- 🐍 Python
+- ⚡ C++
+- 🤖 Artificial Intelligence
+- 🔐 Cybersecurity
+- 🌐 Web Development
+- 🧠 Data Structures & Algorithms
+- 📱 Technology & Machines
+- 🎌 Anime
 
 ---
 
@@ -52,11 +46,11 @@ Strengthening my Python, C++, DSA and problem-solving skills.
 
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
 
-### 🤖 AI & Development
+### ⚙️ Frameworks & Tools
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,git,github,vscode" />
 
-### 🐧 Systems & Tools
+### 🖥️ Systems & Other Tools
 
 <img src="https://skillicons.dev/icons?i=linux,kali,docker" />
 
@@ -64,54 +58,124 @@ Strengthening my Python, C++, DSA and problem-solving skills.
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🤖 JARVIS / AI Assistant
-> An experimental personal AI assistant inspired by futuristic virtual assistants.
 
-**Tech:** Python • AI APIs • Automation • Voice
+An experimental personal AI assistant inspired by futuristic virtual assistants.
+
+**Python • AI APIs • Automation • Voice**
 
 ---
 
 ### 🏠 RentSafe
-> A web application concept designed around making the rental experience easier and safer.
 
-**Tech:** FastAPI • Python • Web Development • APIs
+A web application concept focused on making the rental experience easier and safer.
+
+**FastAPI • Python • Web Development • APIs**
 
 ---
 
 ### 🌐 Citizen AI
-> An AI-powered platform concept designed to bring useful information and services together in one place.
 
-**Tech:** AI • Web Development • APIs
+An AI-powered platform concept designed to bring useful information and services together in one place.
+
+**AI • Web Development • APIs**
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aakash-arya09&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aakash-arya09&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-arya09&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-arya09&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 </div>
 
 ---
 
-## 🧠 My Learning Journey
+# 🔥 Contribution Streak
 
-```text
-Python
-  ↓
-C++ & Data Structures
-  ↓
-Web Development
-  ↓
-APIs & Backend
-  ↓
-Artificial Intelligence
-  ↓
-Cybersecurity
-  ↓
-Build Something Useful 🚀
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Aakash-arya09&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash-arya09&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aakash-arya09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
+
+---
+
+# 📌 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Aakash-arya09">
+<img src="https://img.shields.io/github/last-commit/Aakash-arya09/Aakash-arya09?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/Aakash-arya09?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Aakash-arya09">
+<img src="https://img.shields.io/badge/GitHub-Aakash--arya09-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code • 🤖 AI • 🔐 Cybersecurity • 🎌 Anime
+
+**"Learn. Build. Break. Fix. Repeat."**
+
+</div>
