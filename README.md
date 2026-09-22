@@ -156,33 +156,31 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-arya0
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com/?user=Aakash-arya09&theme=tokyonight&hide_border=true&mode=weekly"
-/>
+<img src="https://streak-stats.demolab.com/?user=Aakash-arya09&theme=tokyonight&hide_border=true&mode=weekly"/>
 
 </div>
 
 ---
-
 
 # 📈 Contribution Activity
 
 <div align="center">
 
-![Akash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aakash-arya09&theme=tokyo-night&hide_border=true&area=true)
+[![Akash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aakash-arya09&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Aakash-arya09)
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg"
-width="900"
-/>
+<!-- Option 1: If you set up the GitHub Action (recommended) -->
+<img src="https://raw.githubusercontent.com/Aakash-arya09/Aakash-arya09/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!-- Option 2: Fallback — 3D contribution chart via Platane -->
+<!-- <img src="https://raw.githubusercontent.com/Aakash-arya09/Aakash-arya09/main/profile-3d-contrib/profile-night-rainbow.svg" width="900" /> -->
 
 </div>
 
@@ -192,7 +190,7 @@ width="900"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aakash-arya09&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aakash-arya09&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -248,8 +246,6 @@ width="900"
 
 <br><br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=100&section=footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FFF&height=100&section=footer"/>
 
 </div>
