@@ -1,15 +1,140 @@
+# 👋 Hey, I'm Akash Arya
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aakash_arya09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-arya-009312385/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryakumararya.458@gmail.com) 
+### 💻 BSc Student | Python & C++ Learner | AI & Cybersecurity Enthusiast | Anime Fan
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aakash-arya09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aakash-arya09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aakash-arya09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a **BSc student** interested in technology, programming, AI, cybersecurity, and building useful projects that solve real-world problems.
+
+I enjoy learning by **building things**, experimenting with new technologies, and turning ideas into working projects. I'm currently improving my programming fundamentals while exploring AI-powered applications and web development.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Aakash-arya09&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🎓 BSc student
+* 💻 Learning **Python, C++, Web Development & Data Structures**
+* 🤖 Interested in **Artificial Intelligence & AI Assistants**
+* 🔐 Exploring **Cybersecurity & Ethical Hacking**
+* 🌐 Interested in building **real-world web applications**
+* 🧠 Currently improving my problem-solving and programming skills
+* 📱 Interested in technology, machines and phones
+* 🎌 Anime enthusiast
+* 🔨 I learn best by **building projects and experimenting**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming
+
+* 🐍 Python
+* ⚡ C++
+* 🌐 HTML / CSS / JavaScript
+
+### Currently Exploring
+
+* 🤖 Artificial Intelligence
+* 🧠 LLMs & AI APIs
+* 🔐 Cybersecurity
+* 🗄️ Databases
+* ☁️ Deployment & Cloud Technologies
+* 📊 Data Structures & Algorithms
+
+### Tools
+
+* 💻 VS Code
+* 🐙 Git & GitHub
+* 🐧 Linux / Kali Linux
+* 🐍 PyCharm
+* 📦 FastAPI
+* 🌐 REST APIs
+
+---
+
+## 🔥 Projects
+
+### 🤖 AI Assistant / JARVIS
+
+Exploring the development of an AI-powered personal assistant capable of interacting with users through natural language and APIs.
+
+**Focus:** Python • AI • APIs • Automation
+
+### 🏠 RentSafe
+
+A web application concept focused on making the rental experience safer and more convenient.
+
+**Focus:** FastAPI • Web Development • Authentication • APIs
+
+### 🌐 Citizen AI
+
+Exploring the idea of an AI-powered platform that can help people access useful information and services through a single interface.
+
+**Focus:** AI • Web Applications • Automation
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python
+   ↓
+Data Structures & Algorithms
+   ↓
+Web Development
+   ↓
+APIs & Backend Development
+   ↓
+Artificial Intelligence
+   ↓
+Cybersecurity
+```
+
+My goal isn't just to learn syntax — I want to understand **how things actually work** and use that knowledge to build useful software.
+
+---
+
+## 🎯 My Goals
+
+* 🚀 Build and deploy useful applications
+* 🤖 Create practical AI-powered tools
+* 🔐 Develop strong cybersecurity fundamentals
+* 💻 Become a better programmer
+* 🧠 Improve problem-solving and DSA
+* 🌍 Contribute to open-source projects
+* 📈 Keep learning and experimenting with new technology
+
+---
+
+## ⚡ Beyond Coding
+
+When I'm not coding, you'll probably find me:
+
+🎌 Watching anime
+📱 Exploring new technology
+💻 Experimenting with software
+🧠 Learning something new
+🔧 Trying to turn random ideas into projects
+
+> **Learn → Build → Break → Fix → Repeat.**
+
+---
+
+## 📊 GitHub
+
+I'm continuously working on improving my skills and building projects.
+This profile is a record of that journey.
+
+### 🚧 Currently Building. Currently Learning. Always Improving.
+
+---
+
+## 📫 Connect With Me
+
+If you're interested in **AI, cybersecurity, programming, web development, or technology**, feel free to connect and collaborate.
+
+⭐ If you find one of my projects useful, consider giving it a star!
+
+---
+
+### 🧑‍💻 `Code • Create • Learn • Repeat`
+
+🎌 *Anime + Code + Curiosity = Me*
