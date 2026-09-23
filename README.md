@@ -138,59 +138,11 @@ Experiments and learning projects related to Linux, networking and cybersecurity
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Aakash-arya09&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-arya09&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
-</div>
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Aakash-arya09&theme=tokyonight&hide_border=true&mode=weekly"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-[![Akash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aakash-arya09&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Aakash-arya09)
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Option 1: If you set up the GitHub Action (recommended) -->
-<img src="https://raw.githubusercontent.com/Aakash-arya09/Aakash-arya09/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<!-- Option 2: Fallback — 3D contribution chart via Platane -->
-<!-- <img src="https://raw.githubusercontent.com/Aakash-arya09/Aakash-arya09/main/profile-3d-contrib/profile-night-rainbow.svg" width="900" /> -->
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aakash-arya09&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
